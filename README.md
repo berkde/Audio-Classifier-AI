@@ -120,10 +120,10 @@ Dataset: [Kaggle - Cats vs Dogs vs Birds Audio Classification](https://www.kaggl
 
 ## ⚠️ Disclaimer
 
-This project is intended for educational and demonstration purposes only. The property price predictions provided by this app are generated using historical data and machine learning models trained on engineered features, and do not constitute financial, legal, or investment advice.
-While every effort has been made to ensure reasonable accuracy, the model may not reflect current market conditions, zoning laws, renovation status, or other important factors. Users should consult with licensed real estate professionals before making any real-world decisions based on these predictions.
-The author assumes no liability for any decisions made based on the use of this tool.
+This project is intended for educational and demonstration purposes only. The animal sound classifications provided by this app are generated using machine learning models trained on labeled audio data and spectrogram features. These predictions do not constitute veterinary, biological, or environmental assessments, and may be affected by background noise, recording quality, or mislabeled data.
+
+While every effort has been made to ensure reasonable accuracy, the model may produce incorrect or ambiguous results, especially with real-world or low-quality audio recordings. Users should not rely on this tool for critical applications, and the author assumes no liability for decisions made based on its output.
 
 ---
 
-> This project was originally built as a personal prototype to explore regression modeling and Streamlit deployment. It is now being incrementally upgraded toward a more production-like architecture with MLOps practices. Feedback and contributions welcome.
+> This project was originally built as a personal prototype to explore audio classification, spectrogram-based CNN modeling, and Streamlit deployment. It is now being incrementally upgraded toward a more production-like architecture with modular design, reproducible pipelines, and MLOps best practices. Feedback and contributions are welcome.
